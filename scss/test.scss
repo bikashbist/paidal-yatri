@@ -1,11 +1,2 @@
-body{
-    background: #fff;
-
-    h1{
-        font-size: 20px;
-    }
-
-    p{
-        color: #000;
-    }
-}
+@import "navbar";
+@import "body"
