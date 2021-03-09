@@ -2,3 +2,26 @@
     padding: 0;
     margin: 0;
   }
+ a{
+   text-decoration: none;
+ }
+  body{
+    font-family: 'Poppins',sans-serif;
+  }
+  .padding-x-axis{
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+  .padding-y-axis{
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .text-center{
+    text-align: center;
+  }
+  h2.text {
+    font-size: 16px;
+    font-weight: 400;
+    color: #262d33;
+    margin-bottom: 20px;
+}

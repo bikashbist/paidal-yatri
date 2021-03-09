@@ -1,0 +1,57 @@
+.activities {
+    background-color: #cccc;
+    .grid-class {
+   
+        &--first {
+           
+                background-color: #fff;
+               
+           
+        }
+        &--second {
+            
+                background-color: #fff;
+           
+            
+           
+        }
+        &--third {
+           
+            background-color: #fff;
+           
+        }
+        &--img{
+            position: relative;
+            height: auto;
+        }
+        &--img__height {
+            height: auto;
+            object-fit: cover;
+            width: 100%;
+        }
+        &__activity{
+            position: absolute;
+            bottom: 0px;
+            background: #ef4297;
+            border-radius: 0px 20px 0px 0px;
+            padding: 10px 20px;
+        }
+        &__activity--title{
+            font-size: 15px;
+            color: #fff;
+            letter-spacing: 0.8px;
+            font-weight: 400;
+            font-family: "Poppins", sans-serif;
+            font-style: italic;
+        }
+        &--heading{
+            padding: 20px 20px;
+        }
+    }
+}
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+.package-destination{
+    a {
+        display: block;
+        background-image: url(https://websitedemos.net/travel-08/wp-content/uploads/sites/698/2019/05/des02-free-img.jpg);
+    }
+    &--contain{
+        height: 450px;
+        position: relative;
+        background-color: #00000078;
+        position: relative;
+        
+    }
+    &--contain__inner{
+        position: absolute;
+        left: 20px;
+        bottom: 20px;
+    }
+    &--place {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 500;
+        font-family: "Playfair Display", serif;
+        margin-bottom: 20px;
+    }
+    &--about {
+        color: #fff;
+        font-size: 16px;
+        font-family: 'Poppins',sans-serif;
+      
+    }
+
+}

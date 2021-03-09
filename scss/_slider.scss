@@ -1,0 +1,125 @@
+.slider-wrapper {
+    position: relative;
+    height: 600px;
+    object-fit: cover;
+    overflow: hidden;
+    a{
+        text-decoration: none;
+    }
+   
+    @media screen and (max-width: 768px) {
+        height: 100%;
+    }
+}
+.slick-slide img {
+    width: 100%;
+}
+.slider__content {
+    position: relative;
+    .slider__text {
+        position: absolute;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        padding-top: 120px;
+        width: 600px;
+        @media screen and (max-width: 768px) {
+            width: 100%;
+           
+        }
+    }
+}
+%slider__arrow{
+    font-size: 50px;
+    color: #ef4297;
+    position: absolute;
+    cursor: pointer;
+    @media screen and (max-width: 768px) {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+.slider__prev {
+ @extend %slider__arrow;
+    top: 50%;
+    left: 0px;
+
+}
+.slider__next {
+    @extend %slider__arrow;
+    top: 50%;
+    right: 0px;
+}
+%margin__bottom--slider{
+    margin-bottom: 20px;
+    @media screen and (max-width: 768px) {
+        margin-bottom: 5px;
+    }
+    @media screen and (max-width: 576px) {
+        margin-bottom: 15px;
+    }
+}
+.slider__category {
+    &--travel{
+        font-size: 20px;
+        color: #fff;
+        font-style: italic;
+        @extend %margin__bottom--slider;
+        @media screen and (max-width: 576px) {
+            font-size: 15px;
+        }
+      
+    }
+    &--title{
+        font-size: 4.6875rem;
+        font-weight: 700;
+        font-family: 'Playfair Display',serif;
+        color: #fff;
+        @extend %margin__bottom--slider;
+        @media screen and (max-width: 576px) {
+            font-size: 20px;
+        }
+    }
+    &--travel__about {
+        font-family: "Poppins", sans-serif;
+        color: #fff;
+        line-height: 30px;
+        width: 430px;
+        @extend %margin__bottom--slider;
+        @media screen and (max-width: 576px) {
+            width: 100%;
+            padding-right: 30px;
+            line-height: 18px;
+        }
+    }
+    &--read__more--text {
+      
+     
+        border-color: #ef4297;
+        background-color: #ef4297;
+        color: #ffffff;
+     
+        border-radius: 2px;
+        padding-top: 19px;
+        padding-right: 30px;
+        padding-bottom: 19px;
+        padding-left: 30px;
+        text-transform: uppercase;
+        display: inline-block;
+        @media screen and (max-width: 576px) {
+            padding: 10px 20px;
+        }
+    }
+
+}
+.slider__image {
+    height: 600px;
+    object-fit: cover;
+    img{
+        height: 100%;
+        object-fit: cover;
+    }
+    @media screen and (max-width: 768px) {
+        height: 100%;
+    }
+}

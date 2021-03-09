@@ -1,0 +1,38 @@
+.about{
+    &__inner{
+        &--padding{
+            padding-top: 60px;
+            padding-bottom: 50px;
+        }
+    }
+    &__flex{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    &__images{
+       width: 100%;
+        @media (min-width: 768px) {
+            width: 50%;
+        }
+      
+        .thumbnail{
+            padding-right: 20px;
+        }
+    }
+    &__contain{
+        width: 100%;
+        @media (min-width: 768px) {
+            width: 50%;
+        }
+      .about__contain--inner{
+        padding-left: 20px;
+        .title__heading{
+            @extend %margin__bottom--slider;
+        }
+        .text{
+            @extend %margin__bottom--slider;
+        }
+      }
+    }
+
+}
