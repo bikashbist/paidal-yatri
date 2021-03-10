@@ -1,7 +1,7 @@
 .package-destination{
     a {
         display: block;
-        background-image: url(https://websitedemos.net/travel-08/wp-content/uploads/sites/698/2019/05/des02-free-img.jpg);
+       
     }
     &--contain{
         height: 450px;
@@ -12,9 +12,12 @@
     }
     &--contain__inner{
         position: absolute;
-        left: 20px;
-        bottom: 20px;
+        left: 0px;
+        bottom: 0px;
+        padding: 20px;
+        background: linear-gradient(to top, #313131 0%, rgb(62 59 59 / 74%) 19%, rgba(117, 117, 117, 0.541) 34%, rgba(117, 117, 117, 0.382) 47%, rgba(117, 117, 117, 0.278) 56.5%, rgba(117, 117, 117, 0.194) 65%, rgba(117, 117, 117, 0.126) 73%, rgba(117, 117, 117, 0.075) 80.2%, rgba(117, 117, 117, 0.042) 86.1%, rgba(117, 117, 117, 0.021) 91%, rgba(117, 117, 117, 0.008) 95.2%, rgb(33 30 30 / 0%) 98.2%, transparent 100%);
     }
+    
     &--place {
         color: #fff;
         font-size: 30px;
@@ -28,5 +31,11 @@
         font-family: 'Poppins',sans-serif;
       
     }
+    &--img__height {
+        height: 450px;
+        object-fit: cover;
+        width: 100%;
+    }
+    
 
 }

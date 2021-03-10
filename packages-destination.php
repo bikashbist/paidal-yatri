@@ -10,6 +10,10 @@
                 <div class="package-destination--grid--one">
                     <a href="#">
                         <div class="package-destination--contain">
+                            <div class="package-destination--images">
+                                <img class="img__thumbnail package-destination--img__height" src="images/nature.jpg" alt="">
+                               
+                            </div>
                             <div class="package-destination--contain__inner">
                                 <h3 class="package-destination--place">Annapurna </h3>
                                 <p class="package-destination--about">5% Discount Varius lectus, rhoncus laboriosam,
@@ -20,8 +24,12 @@
                     </a>
                 </div>
                 <div class="package-destination--grid--two">
-                    <a href="#">
+                <a href="#">
                         <div class="package-destination--contain">
+                            <div class="package-destination--images">
+                                <img class="img__thumbnail package-destination--img__height" src="images/nature.jpg" alt="">
+                               
+                            </div>
                             <div class="package-destination--contain__inner">
                                 <h3 class="package-destination--place">Annapurna </h3>
                                 <p class="package-destination--about">5% Discount Varius lectus, rhoncus laboriosam,
@@ -32,8 +40,12 @@
                     </a>
                 </div>
                 <div class="package-destination--grid--three">
-                    <a href="#">
+                <a href="#">
                         <div class="package-destination--contain">
+                            <div class="package-destination--images">
+                                <img class="img__thumbnail package-destination--img__height" src="images/nature.jpg" alt="">
+                               
+                            </div>
                             <div class="package-destination--contain__inner">
                                 <h3 class="package-destination--place">Annapurna </h3>
                                 <p class="package-destination--about">5% Discount Varius lectus, rhoncus laboriosam,
@@ -44,8 +56,12 @@
                     </a>
                 </div>
                 <div class="package-destination--grid--four">
-                    <a href="#">
+                <a href="#">
                         <div class="package-destination--contain">
+                            <div class="package-destination--images">
+                                <img class="img__thumbnail package-destination--img__height" src="images/nature.jpg" alt="">
+                               
+                            </div>
                             <div class="package-destination--contain__inner">
                                 <h3 class="package-destination--place">Annapurna </h3>
                                 <p class="package-destination--about">5% Discount Varius lectus, rhoncus laboriosam,
