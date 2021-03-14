@@ -137,6 +137,7 @@ h2.text {
 
 .slick-slide img {
   width: 100%;
+  height: 100%;
 }
 
 .slider__content {
@@ -452,6 +453,7 @@ h2.text {
 }
 .package-destination a {
   display: block;
+  margin-bottom: 10px;
 }
 .package-destination--contain {
   height: 450px;
@@ -483,4 +485,28 @@ h2.text {
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
+}
+
+.testimonial {
+  background-color: #f3f3f3;
+}
+.testimonial__images {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.testimonial__contain {
+  text-align: center;
+  padding: 20px 15px 0px;
+  display: inline-block;
+}
+.testimonial__contain .text {
+  padding-bottom: 15px;
+}
+.testimonial__part {
+  background-color: #fff;
+  padding: 30px 20px;
+  margin: 0px 5px;
 }

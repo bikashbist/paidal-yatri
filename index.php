@@ -34,7 +34,7 @@
     <?php include 'recent-activities.php' ?>
     <?php include 'newsletter.php' ?>
     <?php include 'packages-destination.php' ?>
-
+    <?php include 'testimonial.php' ?>
     <script src="js/all.js"></script>
 </body>
 
