@@ -1,11 +1,16 @@
-body{
-    background: #fff;
+@import "navbar";
+@import "body";
+@import "slider";
+@import "about";
+@import "tag";
+@import "activities";
+@import "section-heading";
+@import "newsletter";
+@import "grid";
+@import "package-destination";
+@import "testimonial";
+@import "services";
+@import "footer";
+@import "social";
 
-    h1{
-        font-size: 20px;
-    }
 
-    p{
-        color: #000;
-    }
-}
