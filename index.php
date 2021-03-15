@@ -19,9 +19,7 @@
     <link rel="stylesheet" href="css/test.css">
     <script src="https://kit.fontawesome.com/25c99003c9.js" crossorigin="anonymous"></script>
 
-    
     <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
 </head>
@@ -35,7 +33,10 @@
     <?php include 'newsletter.php' ?>
     <?php include 'packages-destination.php' ?>
     <?php include 'testimonial.php' ?>
+    <?php include 'services.php' ?>
+    <?php include 'footer.php' ?>
     <script src="js/all.js"></script>
+
 </body>
 
 </html>

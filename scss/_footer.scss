@@ -1,0 +1,29 @@
+.footer {
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-image: linear-gradient(to right, rgba(10, 0, 5, 0.72), rgba(10, 0, 5, 0.72)), url(../images/footer.jpg);
+
+    .text {
+        padding: 20px 0px;
+        color: #fff;
+        width: 50%;
+        margin: 0 auto;
+    }
+    &__contain{
+        padding: 40px 0px;
+    }
+
+
+}
+.footer-bottom{
+        background-color: #000;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color: #fff;
+        a{
+            color: #ef4297;
+        }
+}

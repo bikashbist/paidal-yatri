@@ -41,8 +41,8 @@ $('.slider-part').slick({
   speed: 300,
   slidesToShow: 3,
   slidesToScroll: 3,
-  prevArrow: $('.slider__prev'),
-  nextArrow: $('.slider__next'),
+  prevArrow: $('.slider__prev-a'),
+  nextArrow: $('.slider__next-b'),
   responsive: [{
     breakpoint: 1024,
     settings: {

@@ -1,0 +1,17 @@
+.services{
+    &__detail{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        text-align: center;
+    }
+    &__heading{
+        width: 30%;
+    }
+    &__contain{
+        width: 70%;
+    }
+    &__img{
+        width: 30%;
+    }
+}
