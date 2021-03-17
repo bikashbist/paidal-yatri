@@ -1,9 +1,15 @@
 .package-destination{
+    
     a {
         display: block;
         margin-bottom: 10px;
+        margin: 0 15px;
        
     }
+    &--detail{
+        position: relative;
+    }
+
     &--contain{
         height: 450px;
         position: relative;
@@ -36,6 +42,22 @@
         height: 450px;
         object-fit: cover;
         width: 100%;
+    }
+    .slider__destination__right {
+        position: absolute;
+        right: 15px;
+        top: -40px;
+        color: #ef4297;
+        background: #f1f1f1;
+        padding: 0px 5px;
+    }
+    .slider__destination__left {
+        position: absolute;
+        right: 45px;
+        top: -40px;
+        color: #ef4297;
+        padding: 0px 5px;
+        background: #f1f1f1;
     }
     
 

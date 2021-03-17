@@ -5,6 +5,7 @@
             consectetur adipisicing elit. In dolor,
             iusto doloremque <br>quo odio repudiandae sunt eveniet? Enim facilis laborum.</p>
     </div>
+    
     <div class="testimonial__inner padding-x-axis ">
         <div class="testimonial__detail">
             <div class="testimonial__slider">
