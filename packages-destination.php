@@ -6,6 +6,14 @@
     </div>
     <div class="package-destination--inner ">
         <div class="package-destination--detail">
+            
+                <div class="slider__destination__left ">
+                    <i class="fas fa-chevron-circle-left"></i>
+                </div>
+                <div class="slider__destination__right ">
+                    <i class="fas fa-chevron-circle-right"></i>
+                </div>
+        
             <div class="package-destination--grid">
                 <div class="package-destination--grid--one">
                     <a href="#">
@@ -24,6 +32,7 @@
                         </div>
                     </a>
                 </div>
+
                 <div class="package-destination--grid--two">
                     <a href="#">
                         <div class="package-destination--contain">
@@ -143,7 +152,10 @@
                         </div>
                     </a>
                 </div>
+                
             </div>
+            
+
         </div>
     </div>
 </div>
