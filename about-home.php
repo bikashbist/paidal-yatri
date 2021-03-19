@@ -2,7 +2,7 @@
     <div class="about__inner padding-x-axis padding-y-axis">
         <div class="about__detail">
             <div class="about__flex">
-                <div class="about__images">
+                <div class="about__images" data-aos="zoom-in">
                     <div class="thumbnail">
                         <img class="img__thumbnail" src="images/travel1.jpg" alt="img">
                     </div>

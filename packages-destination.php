@@ -1,10 +1,10 @@
 <div class="package-destination padding-x-axis padding-y-axis">
-    <div class="section__heading text-center">
+    <div class="section__heading text-center" data-aos="fade-up">
         <h1 class="title__heading">Featured Destination</h1>
         <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque <br>
             quo odio repudiandae sunt eveniet? Enim facilis laborum.</p>
     </div>
-    <div class="package-destination--inner ">
+    <div class="package-destination--inner margin-bottom">
         <div class="package-destination--detail">
             
                 <div class="slider__destination__left ">
@@ -15,7 +15,7 @@
                 </div>
         
             <div class="package-destination--grid">
-                <div class="package-destination--grid--one">
+                <div class="package-destination--grid--one" data-aos="zoom-in">
                     <a href="#">
                         <div class="package-destination--contain">
                             <div class="package-destination--images">
@@ -33,7 +33,7 @@
                     </a>
                 </div>
 
-                <div class="package-destination--grid--two">
+                <div class="package-destination--grid--two" data-aos="zoom-in">
                     <a href="#">
                         <div class="package-destination--contain">
                             <div class="package-destination--images">
@@ -50,7 +50,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="package-destination--grid--three">
+                <div class="package-destination--grid--three" data-aos="zoom-in">
                     <a href="#">
                         <div class="package-destination--contain">
                             <div class="package-destination--images">

@@ -1,14 +1,14 @@
 <div class="activities padding-y-axis padding-x-axis">
-    <div class="section__heading text-center">
+    <div class="section__heading text-center" data-aos="fade-up">
         <h1 class="title__heading">Recent Blog Post</h1>
         <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque <br>
             quo odio repudiandae sunt eveniet? Enim facilis laborum.</p>
     </div>
-    <div class="activities__inner ">
+    <div class="activities__inner margin-bottom">
         <div class="activities__details padding">
             <div class="grid-class">
 
-                <div class="grid-class--first">
+                <div class="grid-class--first" data-aos="zoom-in">
                     <a href="#">
                         <div class="grid-class--img">
                             <img class="img__thumbnail grid-class--img__height" src="images/nature.jpg" alt="">
@@ -25,7 +25,7 @@
 
 
                 </div>
-                <div class="grid-class--second">
+                <div class="grid-class--second" data-aos="zoom-in">
 
                     <a href="#">
                         <div class="grid-class--img">
@@ -42,7 +42,7 @@
                     </a>
 
                 </div>
-                <div class="grid-class--third">
+                <div class="grid-class--third" data-aos="zoom-in">
 
                     <a href="#">
                         <div class="grid-class--img">

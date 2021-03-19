@@ -1,5 +1,5 @@
 <div class="testimonial padding-y-axis">
-    <div class="section__heading text-center">
+    <div class="section__heading text-center" data-aos="fade-up">
         <h1 class="title__heading">Traveller’s Thoughts</h1>
         <p class="text">Lorem ipsum dolor sit amet,
             consectetur adipisicing elit. In dolor,
@@ -7,7 +7,7 @@
     </div>
     
     <div class="testimonial__inner padding-x-axis ">
-        <div class="testimonial__detail">
+        <div class="testimonial__detail margin-bottom">
             <div class="testimonial__slider">
                 <section class="slider-part">
                     <div class="testimonial__part">
