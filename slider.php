@@ -66,7 +66,7 @@
 
                     </div>
                     <div class="slider__image ">
-                        <img src="images/slider.jpg" alt="">
+                        <img src="images/footer1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
 
                     </div>
                     <div class="slider__image ">
-                        <img src="images/slider.jpg" alt="">
+                        <img src="images/background1.jpg" alt="">
                     </div>
                 </div>
             </div>

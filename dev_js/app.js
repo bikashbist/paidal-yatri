@@ -16,6 +16,7 @@ $(document).on('ready', function () {
         useTransform: false,
         prevArrow: $('.slider__prev'),
         nextArrow: $('.slider__next'),
+        
     });
 });
 
@@ -38,14 +39,14 @@ $('.slider-part').slick({
             }
         },
         {
-            breakpoint: 600,
+            breakpoint: 768,
             settings: {
                 slidesToShow: 2,
                 slidesToScroll: 2
             }
         },
         {
-            breakpoint: 480,
+            breakpoint: 576,
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1
@@ -75,14 +76,14 @@ $('.package-destination--grid').slick({
             }
         },
         {
-            breakpoint: 600,
+            breakpoint: 768,
             settings: {
                 slidesToShow: 2,
                 slidesToScroll: 2
             }
         },
         {
-            breakpoint: 480,
+            breakpoint: 576,
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1

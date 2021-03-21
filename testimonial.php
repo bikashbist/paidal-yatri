@@ -10,7 +10,7 @@
         <div class="testimonial__detail margin-bottom">
             <div class="testimonial__slider">
                 <section class="slider-part">
-                    <div class="testimonial__part">
+                    <div class="testimonial__part" data-aos="zoom-in">
                         <div class="testimonial__images"><img class="img__thumbnail package-destination--img__height"
                                 src="images/nature.jpg" alt=""></div>
                         <div class="testimonial__contain ">
@@ -23,7 +23,7 @@
                             <h4>bikash bist</h4>
                         </div>
                     </div>
-                    <div class="testimonial__part">
+                    <div class="testimonial__part" data-aos="zoom-in">
                         <div class="testimonial__images"><img class="img__thumbnail package-destination--img__height"
                                 src="images/nature.jpg" alt=""></div>
                         <div class="testimonial__contain ">
@@ -36,7 +36,7 @@
                             <h4>bikash bist</h4>
                         </div>
                     </div>
-                    <div class="testimonial__part">
+                    <div class="testimonial__part" data-aos="zoom-in">
                         <div class="testimonial__images"><img class="img__thumbnail package-destination--img__height"
                                 src="images/nature.jpg" alt=""></div>
                         <div class="testimonial__contain ">
@@ -49,7 +49,7 @@
                             <h4>bikash bist</h4>
                         </div>
                     </div>
-                    <div class="testimonial__part">
+                    <div class="testimonial__part" data-aos="zoom-in">
                         <div class="testimonial__images"><img class="img__thumbnail package-destination--img__height"
                                 src="images/nature.jpg" alt=""></div>
                         <div class="testimonial__contain ">

@@ -3,13 +3,16 @@
     background-size: cover;
     background-repeat: no-repeat;
 
-    background-image: linear-gradient(to right, rgba(10, 0, 5, 0.72), rgba(10, 0, 5, 0.72)), url(../images/footer.jpg);
+    background-image: linear-gradient(to right, rgba(10, 0, 5, 0.72), rgba(10, 0, 5, 0.72)), url(../images/footer2.jpg);
 
     .text {
         padding: 20px 0px;
         color: #fff;
         width: 50%;
         margin: 0 auto;
+        @media screen and (max-width: 1768px) {
+            width: 100%;
+         }
     }
     &__contain{
         padding: 40px 0px;

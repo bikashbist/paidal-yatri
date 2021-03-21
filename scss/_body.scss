@@ -12,13 +12,27 @@ body {
 .padding-x-axis {
   padding-left: 70px;
   padding-right: 70px;
+
+  @media screen and (max-width: 768px) {
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
 }
 
 .padding-y-axis {
   padding-top: 70px;
   padding-bottom: 70px;
+
+  @media screen and (max-width: 768px) {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+  }
+
 }
-.margin-bottom{
+
+.margin-bottom {
   margin-bottom: 20px;
 }
 
@@ -35,4 +49,35 @@ body {
   font-size: 45px;
   font-weight: 500;
   font-family: 'Playfair Display', serif;
+}
+
+@media screen and (max-width: 480px) {
+  h2.text {
+    font-size: 14px;
+
+  }
+
+  h3 {
+    font-size: 1.4rem;
+
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+
+  .title__heading {
+
+    font-size: 30px;
+
+  }
+
+  .section__heading .text {
+    margin-bottom: 20px;
+    margin-bottom: 0.8em;
+  }
+
+  .newsletter input[type=email] {
+    margin-bottom: 20px;
+  }
 }

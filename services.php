@@ -9,6 +9,7 @@
 
             <div class="services__contain">
                 <div class="services__article">
+                    <div class="services__flex">
                     <div class="services__icon">
                         <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
                     </div>
@@ -16,8 +17,11 @@
                     <h4><a class="link" href="#">The Events Calendar</a></h4>
                         <p>Extensible plugin that lets you easily manage and share events.</p>
                     </div>
+                    </div>
+                    
                 </div>
                 <div class="services__article">
+                    <div class="services__flex">
                     <div class="services__icon">
                         <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
                     </div>
@@ -25,42 +29,56 @@
                     <h4><a class="link" href="#">The Events Calendar</a></h4>
                         <p>Extensible plugin that lets you easily manage and share events.</p>
                     </div>
+                    </div>
+                    
                 </div>
                 <div class="services__article">
+                    <div class="services__flex">
                     <div class="services__icon">
                         <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
                     </div>
                     <div class="services__text" data-aos="fade-up">
                     <h4><a class="link" href="#">The Events Calendar</a></h4>
-                        <p class="text">Extensible plugin that lets you easily manage and share events.</p>
+                        <p>Extensible plugin that lets you easily manage and share events.</p>
                     </div>
+                    </div>
+                    
                 </div>
                 <div class="services__article">
-                    <div class="services__icon">
-                        <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
-                    </div>
-                    <div class="services__text" data-aos="fade-up">
-                       <h4><a class="link" href="#">The Events Calendar</a></h4>
-                        <p class="text">Extensible plugin that lets you easily manage and share events.</p>
-                    </div>
-                </div>
-                <div class="services__article">
-                    <div class="services__icon">
-                        <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
-                    </div>
-                    <div class="services__text" data-aos="fade-up">
-                       <h4><a class="link" href="#">The Events Calendar</a></h4>
-                        <p class="text">Extensible plugin that lets you easily manage and share events.</p>
-                    </div>
-                </div>
-                <div class="services__article">
+                    <div class="services__flex">
                     <div class="services__icon">
                         <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
                     </div>
                     <div class="services__text" data-aos="fade-up">
                     <h4><a class="link" href="#">The Events Calendar</a></h4>
-                        <p class="text">Extensible plugin that lets you easily manage and share events.</p>
+                        <p>Extensible plugin that lets you easily manage and share events.</p>
                     </div>
+                    </div>
+                    
+                </div>
+                <div class="services__article">
+                    <div class="services__flex">
+                    <div class="services__icon">
+                        <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
+                    </div>
+                    <div class="services__text" data-aos="fade-up">
+                    <h4><a class="link" href="#">The Events Calendar</a></h4>
+                        <p>Extensible plugin that lets you easily manage and share events.</p>
+                    </div>
+                    </div>
+                    
+                </div>
+                <div class="services__article">
+                    <div class="services__flex">
+                    <div class="services__icon">
+                        <img class="services__img--icon" src="images/plate-with-spoon.png" alt="">
+                    </div>
+                    <div class="services__text" data-aos="fade-up">
+                    <h4><a class="link" href="#">The Events Calendar</a></h4>
+                        <p>Extensible plugin that lets you easily manage and share events.</p>
+                    </div>
+                    </div>
+                    
                 </div>
 
 

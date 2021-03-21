@@ -25,7 +25,7 @@
 
 
                 </div>
-                <div class="grid-class--second" data-aos="zoom-in">
+                <div class="grid-class--first" data-aos="zoom-in">
 
                     <a href="#">
                         <div class="grid-class--img">
@@ -42,7 +42,7 @@
                     </a>
 
                 </div>
-                <div class="grid-class--third" data-aos="zoom-in">
+                <div class="grid-class--first" data-aos="zoom-in">
 
                     <a href="#">
                         <div class="grid-class--img">
