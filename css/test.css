@@ -201,7 +201,6 @@ body {
 }
 @media screen and (max-width: 480px) {
   .slider__content .slider__text {
-    padding: 0px;
     padding-top: 70px;
   }
 }
