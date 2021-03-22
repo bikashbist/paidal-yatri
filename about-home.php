@@ -9,7 +9,7 @@
 
                 </div>
                 <div class="about__contain">
-                    <div class="about__contain--inner" data-aos="fade-left">
+                    <div class="about__contain--inner" data-aos="fade-up">
                         <h1 class="title__heading">My story of travelling through the world</h1>
                         <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto
                             doloremque
