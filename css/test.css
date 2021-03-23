@@ -527,6 +527,11 @@ h3 {
   text-transform: uppercase;
   display: inline-block;
   border: none;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.newsletter button:hover {
+  background-color: #e42985;
 }
 
 @media (min-width: 768px) {
