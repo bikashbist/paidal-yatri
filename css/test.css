@@ -94,6 +94,22 @@ body {
   overflow-x: hidden;
 }
 
+a.read--more {
+  padding: 5px 10px;
+  border: 2px solid #ef4297;
+  border-radius: 1px 20px 5px 1px;
+  color: #ef4297;
+  transition: 0.5s;
+}
+a.read--more:hover {
+  background-color: #ef4297;
+  color: #fff;
+}
+
+a.read--more--part {
+  color: #ef4297;
+}
+
 .padding-x-axis {
   padding-left: 70px;
   padding-right: 70px;

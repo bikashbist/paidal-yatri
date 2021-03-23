@@ -19,7 +19,7 @@
 
                         <div class="grid-class--heading">
                             <h2 class="text">My go-to ways to get more off the beaten track while traveling </h2>
-                            <a href="#">View Packages</a>
+                            <a class="read--more" href="#">Read More</a>
                         </div>
                     </a>
 
@@ -37,7 +37,7 @@
 
                         <div class="grid-class--heading">
                         <h2 class="text">My go-to ways to get more off the beaten track while traveling </h2>
-                            <a href="#">View Packages</a>
+                        <a class="read--more" href="#">Read More</a>
                         </div>
                     </a>
 
@@ -54,7 +54,7 @@
 
                         <div class="grid-class--heading">
                         <h2 class="text">My go-to ways to get more off the beaten track while traveling </h2>
-                            <a href="#">View Packages</a>
+                        <a class="read--more" href="#">Read More</a>
                         </div>
                     </a>
 

@@ -17,7 +17,7 @@
                             quis,
                             blanditiis laboriosam alias. Usto doloremque quo odio repudiandae sunt eveniet? Enim facilis
                             laborum voluptate id porro, culpa maiores quis, blanditiis laboriosam alias.</p>
-                        <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="#">Read More</a> </p>
+                        <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a class="read--more--part" href="#">Read More</a> </p>
                         <img src="paidal.png" alt="logo">
                         
                     </div>
