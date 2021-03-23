@@ -389,7 +389,7 @@ a.read--more--part {
   padding-left: 20px;
 }
 h4 {
-  color: #ef4297;
+  color: #41474c;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -397,7 +397,7 @@ h4 {
 h4 a.link {
   padding-bottom: 10px;
   display: block;
-  color: #ef4297;
+  color: #41474c;
 }
 
 h2.text {
@@ -418,19 +418,6 @@ h3 {
   color: #262d33;
 }
 
-@media screen and (max-width: 480px) {
-  h2.text {
-    font-size: 14px;
-  }
-
-  h3 {
-    font-size: 1.4rem;
-  }
-
-  h4 {
-    font-size: 16px;
-  }
-}
 .activities {
   background-color: #f3f3f3;
 }
