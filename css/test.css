@@ -94,6 +94,9 @@ body {
   overflow-x: hidden;
 }
 
+a {
+  transition: 0.5s;
+}
 a.read--more {
   padding: 5px 10px;
   border: 2px solid #ef4297;
